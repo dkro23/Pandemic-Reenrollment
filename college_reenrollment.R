@@ -4,7 +4,7 @@
 ####################################################
 
 ### Set wd
-setwd("C:/Users/David/Documents/Thrive Work Stuff/Current Population Survey/Linking")
+setwd("Path/to/files")
 
 ### Load Libraries
 library(tidyverse)
